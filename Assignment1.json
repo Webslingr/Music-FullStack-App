@@ -1,0 +1,146 @@
+{
+  "song": [
+    {
+      "id": 1,
+      "title": "Tootsie Slide",
+      "album": "Scorpion",
+      "artist": "Drake",
+      "album_art": "https://source.unsplash.com/random/",
+      "genre": [
+        "Hip-Hop",
+        "Rap",
+        "Trap music"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Small Things",
+      "album": "Enema of the state",
+      "artist": "Blink-182",
+      "album_art": "https://source.unsplash.com/random/",
+      "genre": [
+        "Rock",
+        "Punk rock"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Bohemian Rhapsody",
+      "album": "A Night at the Opera",
+      "artist": "Queen",
+      "album_art": "https://source.unsplash.com/random/",
+      "genre": [
+        "Rock",
+        "Progressive rock",
+        "Progressive pop"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Bicycle Race",
+      "album": "Jazz",
+      "artist": "Queen",
+      "album_art": "https://source.unsplash.com/random/",
+      "genre": [
+        "Alternative/Indie",
+        "R&B/Soul",
+        "Children's Music",
+        "Metal",
+        "French Indie",
+        "Pop",
+        "Rock en Español",
+        "Rock"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Back in Black",
+      "album": "AC/DC",
+      "artist": "AC/DC",
+      "album_art": "https://source.unsplash.com/random/",
+      "genre": [
+        "Hard rock",
+        "Metal"
+      ]
+    }
+  ],
+  "user": [
+    {
+      "user_id": 1,
+      "name": {
+        "firstname": "Jason",
+        "lastname": "Statham"
+      },
+      "email": "jason@test.com",
+      "password": "1#2345"
+    },
+    {
+      "user_id": 2,
+      "name": {
+        "firstname": "Mason",
+        "lastname": "Joestar"
+      },
+      "email": "mason@test.com",
+      "password": "5678*9"
+    },
+    {
+      "user_id": 3,
+      "name": {
+        "firstname": "Jessie",
+        "lastname": "James"
+      },
+      "email": "jessie@test.com",
+      "password": "!ewr43"
+    },
+    {
+      "user_id": 4,
+      "name": {
+        "firstname": "Nessie",
+        "lastname": "Portello"
+      },
+      "email": "Nessie@test.com",
+      "password": "@sr344"
+    },
+    {
+      "user_id": 5,
+      "name": {
+        "firstname": "Messi",
+        "lastname": "Leo"
+      },
+      "email": "Messi@test.com",
+      "password": "&akn32"
+    }
+  ],
+  "favourite": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "title": "Tootsie Slide",
+      "liked": true
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "title": "Bicycle Race",
+      "liked": true
+    },
+    {
+      "id": 4,
+      "user_id": 3,
+      "title": "Bicycle Race",
+      "liked": true
+    },
+    {
+      "id": 2,
+      "user_id": 5,
+      "title": "Small Things",
+      "liked": true
+    },
+    {
+      "id": 3,
+      "user_id": 2,
+      "title": "Bohemian Rhapsody",
+      "liked": true
+    }
+  ]
+}
